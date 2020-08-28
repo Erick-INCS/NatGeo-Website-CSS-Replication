@@ -2,6 +2,10 @@
 
 ![Preview](img/out.gif)
 
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="img/NatGeo1.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="img/NatGeo1.mp4" type="video/mp4">
+  </video>
 </figure>
+<!-- blank line -->
