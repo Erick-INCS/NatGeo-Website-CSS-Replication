@@ -2,4 +2,4 @@
 
 ![Preview](img/out.gif)
 
-![Preview](NatGeo1.mp4)
+![Preview](img/NatGeo1.mp4)
